@@ -1,0 +1,5 @@
+# Author: Dominik Harmim <harmim6@gmail.com>
+
+# Sphinx documentation
+/_build/
+/_apidoc/

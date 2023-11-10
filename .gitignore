@@ -1,0 +1,9 @@
+# Author: Dominik Harmim <harmim6@gmail.com>
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite3 database
+/requests.db
